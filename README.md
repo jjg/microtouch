@@ -1,5 +1,8 @@
 # Welcome to Microtouch
 
+Fork of Rossums Microtoch for the GL Model 1 project.
+
+
 Microtouch is a little device powered by the delightful Atmega32u4.
 It features a 320x240 pixel touchscreen, an accelerometer, full speed
 usb, a microsd card reader and a litium ion battery.
